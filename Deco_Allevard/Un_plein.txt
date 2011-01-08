@@ -1,0 +1,8 @@
+un plein
+Un plein et retour maison
+distance :
+difficulte :
+Deco : 5030781N 273530.12E 32T Collet D'Allevard
+Balises :
+- 5026139.5N 266086.03E 32T Saint Genis
+Atterro : 5020633.5N 727837.8E 31T Lumbin

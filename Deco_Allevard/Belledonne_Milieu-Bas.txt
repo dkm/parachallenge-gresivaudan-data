@@ -1,0 +1,9 @@
+belledonne milieu bas
+Descente de Belledonne par Allevard
+distance :
+difficulte :
+Deco : 5030781N 273530.12E 32T Collet D'Allevard
+Balises :
+- 5012043.5N 732099.9E 31T Chalet Orionde
+- 5001150.5N 728233.56E 31T Croix de Chamrousse
+Atterro : 5029966.5N 270430.72E 32T Digue Allevard

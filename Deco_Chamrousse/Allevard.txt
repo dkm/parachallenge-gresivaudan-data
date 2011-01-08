@@ -1,0 +1,9 @@
+allevard
+Aller-retour à Allevard
+distance :
+difficulte :
+Deco : 5001260N 726982.9E 31T Chamrousse 
+Balises :
+- 5015345N 364703.6E 32T 7 laux
+- 5030781N 273530.12E 32T Allevard
+Atterro : 5003364N 722687.94E 31T Saint Martin
