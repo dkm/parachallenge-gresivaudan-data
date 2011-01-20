@@ -1,10 +1,10 @@
-l addition
-Quadrilatère devant Chamrousse 
+titre: l addition
+description: Quadrilatère devant Chamrousse 
 distance :
-difficulte :
-Deco : 5001260N 726982.9E 31T Chamrousse 
-Balises :
+difficulté :
+deco : 5001260N 726982.9E 31T Chamrousse 
+balises :
 - 5005200N 729137.25E 31T Cabane du Colon
 - 4992957.5N 715673.2E 31T ligne électrique de Vizille
 - 5003847N 717009.1E 31T 4 seigneurs
-Atterro : 5003364N 722687.94E 31T Saint Martin
+atterro : 5003364N 722687.94E 31T Saint Martin

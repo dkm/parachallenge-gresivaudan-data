@@ -1,8 +1,9 @@
-chateau marrant
-Visite du Manival
+titre: chateau marrant
+description: Visite du Manival
 distance :
-difficulte :
-Deco : 5021076N 726404.5E 31T St Hilaire Nord
-Balises :
+difficulté :
+deco : 5021076N 726404.5E 31T St Hilaire Nord
+balises :
 - 5018038.5N 722652.5E 31T Chateau Narnard
-Atterro : 5020633.5N 727837.8E 31T Lumbin
+atterro : 5020633.5N 727837.8E 31T Lumbin
+

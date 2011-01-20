@@ -1,10 +1,10 @@
-pour la cfd
-triangle FAI pour gagner la CFd
+titre: pour la cfd
+description: triangle FAI pour gagner la CFd
 distance :
-difficulte :
-Deco : 5021076N 726404.5E 31T St Hilaire Nord
-Balises :
+difficulté :
+deco : 5021076N 726404.5E 31T St Hilaire Nord
+balises :
 - 5012768N 716791.2E 31T Saint Eynard
 - 5039003N 729109.06E 31T Granier
 - 5018739N 267339.6E 32T Merdaret
-Atterro : 5020633.5N 727837.8E 31T Lumbin
+atterro : 5020633.5N 727837.8E 31T Lumbin

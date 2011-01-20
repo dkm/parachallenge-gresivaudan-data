@@ -1,10 +1,10 @@
-grimpe
-Première sortie vers le Nord
+titre: grimpe
+description: Première sortie vers le Nord
 distance :
-difficulte :
-Deco : 5021076N 726404.5E 31T St Hilaire Nord
-Balises :
+difficulté :
+deco : 5021076N 726404.5E 31T St Hilaire Nord
+balises :
 - 5019559.5N 725477.5 31T Ecole d'Escalade St Pancrasse
 - 5024481N 728287.3 31T Cascade de Glésy
 - 5031362.5N 731412.3 31T Escalade La Flachère
-Atterro : 5020633.5N 727837.8E 31T Lumbin
+atterro : 5020633.5N 727837.8E 31T Lumbin

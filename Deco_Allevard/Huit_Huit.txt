@@ -1,10 +1,10 @@
-huit huit
-Chamrousse par les Grands moulins et les 7laux
+titre: huit huit
+description: Chamrousse par les Grands moulins et les 7laux
 distance :
-difficulte :
-Deco : 5030781N 273530.12E 32T Collet D'Allevard
-Balises :
+difficulté :
+deco : 5030781N 273530.12E 32T Collet D'Allevard
+balises :
 - 5031994.5N 281147.97E 32T Grands Moulins
 - 5015345N 364703.6E 32T 7Laux
 - 5001150.5N 728233.56E 31T Croix de Chamrousse
-Atterro : 5029966.5N 270430.72E 32T Digue Allevard
+atterro : 5029966.5N 270430.72E 32T Digue Allevard

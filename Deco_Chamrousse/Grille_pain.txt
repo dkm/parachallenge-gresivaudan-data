@@ -1,8 +1,8 @@
-grille pain
-Petit tour jusqu'à Vizille 
+titre: grille pain
+description: Petit tour jusqu'à Vizille 
 distance :
-difficulte :
-Deco : 5001260N 726982.9E 31T Chamrousse 
-Balises :
+difficulté :
+deco : 5001260N 726982.9E 31T Chamrousse 
+balises :
 - 4992957.5N 715673.2E 31T Ligne électrique Vizille
-Atterro : 5003364N 722687.94E 31T Saint Martin
+atterro : 5003364N 722687.94E 31T Saint Martin

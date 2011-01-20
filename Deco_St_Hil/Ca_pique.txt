@@ -1,8 +1,8 @@
-ca pique
-Roches de pierre Aiguille au dessus du Touvet
+titre: ca pique
+description: Roches de pierre Aiguille au dessus du Touvet
 distance :
-difficulte :
-Deco : 5021076N 726404.5E 31T St Hilaire Nord
-Balises :
+difficulté :
+deco : 5021076N 726404.5E 31T St Hilaire Nord
+balises :
 - 5027831.5N 729516.4E 31T Pierre Aiguille
-Atterro : 5020633.5N 727837.8E 31T Lumbin
+atterro : 5020633.5N 727837.8E 31T Lumbin

@@ -1,8 +1,8 @@
-cross royal
-Aller-retour aux 4 seigneurs 
+titre: cross royal
+description: Aller-retour aux 4 seigneurs 
 distance :
-difficulte :
-Deco : 5001260N 726982.9E 31T Chamrousse 
-Balises :
+difficulté :
+deco : 5001260N 726982.9E 31T Chamrousse 
+balises :
 - 5003847N 717009.1E 31T 4 seigneurs
-Atterro : 5003364N 722687.94E 31T Saint Martin
+atterro : 5003364N 722687.94E 31T Saint Martin
