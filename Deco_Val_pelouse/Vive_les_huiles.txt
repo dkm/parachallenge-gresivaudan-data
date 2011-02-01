@@ -1,8 +1,10 @@
+[general]
 titre: vive les huiles
 description: Un petit saut jusqu'à Chamoux par les huiles 
 distance :
 difficulté :
-deco : 5033473.5N 278610.1E 32T Val Pelouse
-balises :
-- 5045531.5N 285484.78E 32T Chamoux
-atterro : 5035719N 276274.72E 32T le Molliet
+
+[trajet]
+deco : 5033473.5N 278610.1E 32T | Val Pelouse
+b1: 5045531.5N 285484.78E 32T | Chamoux
+atterro : 5035719N 276274.72E 32T | le Molliet

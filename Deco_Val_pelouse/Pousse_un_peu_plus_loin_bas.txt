@@ -1,8 +1,10 @@
+[general]
 titre: pousse un peu plus loin bas
 description: Une petite sortie du bocal vers les 7 laux
 distance :
 difficulté :
-deco : 5033473.5N 278610.1E 32T Val Pelouse
-balises :
-- 5015345N 364703.6E 32T 7laux
-atterro : 5035719N 276274.72E 32T le Molliet
+
+[trajet]
+deco : 5033473.5N 278610.1E 32T | Val Pelouse
+b1: 5015345N 364703.6E 32T | 7laux
+atterro : 5035719N 276274.72E 32T | le Molliet

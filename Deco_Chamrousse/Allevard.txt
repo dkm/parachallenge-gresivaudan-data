@@ -1,9 +1,11 @@
+[general]
 titre: allevard
 description: Aller-retour à Allevard
 distance :
 difficulté :
-deco : 5001260N 726982.9E 31T Chamrousse 
-balises :
-- 5015345N 364703.6E 32T 7 laux
-- 5030781N 273530.12E 32T Allevard
-atterro : 5003364N 722687.94E 31T Saint Martin
+
+[trajet]
+deco : 5001260N 726982.9E 31T | Chamrousse 
+b1: 5015345N 364703.6E 32T | 7 laux
+b2: 5030781N 273530.12E 32T | Allevard
+atterro : 5003364N 722687.94E 31T | Saint Martin

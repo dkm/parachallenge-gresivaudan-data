@@ -1,9 +1,11 @@
+[general]
 titre: par les hauts
 description: Belledonne vue du ciel
 distance :
 difficulté :
-deco : 5030781N 273530.12E 32T Collet D'Allevard
-balises :
-- 5029899.5N 276590.16E 32T Les plagnes
-- 5031994.5N 281147.97E 32T Grands Moulins
-atterro : 5029966.5N 270430.72E 32T Digue Allevard
+
+[trajet]
+deco : 5030781N 273530.12E 32T | Collet D'Allevard
+b1: 5029899.5N 276590.16E 32T | Les plagnes
+b2: 5031994.5N 281147.97E 32T | Grands Moulins
+atterro : 5029966.5N 270430.72E 32T | Digue Allevard

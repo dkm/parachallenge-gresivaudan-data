@@ -1,9 +1,11 @@
+[general]
 titre: belledonne haut
 description: Visite du Haut proche de Belledonne
 distance :
 difficulté :
-deco : 5030781N 273530.12E 32T Collet D'Allevard
-balises :
-- 5033473.5N 278610.1E 32T Val pelouse
-- 5045531.5N 285484.78E 32T Chamoux
-atterro : 5029966.5N 270430.72E 32T Digue Allevard
+
+[trajet]
+deco : 5030781N 273530.12E 32T | Collet D'Allevard
+b1: 5033473.5N 278610.1E 32T | Val pelouse
+b2: 5045531.5N 285484.78E 32T | Chamoux
+atterro : 5029966.5N 270430.72E 32T | Digue Allevard

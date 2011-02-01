@@ -1,8 +1,10 @@
+[general]
 titre: la brioche rose
 description: 1ère traversée dans Belledonne
 distance :
 difficulté :
-deco : 5021076N 726404.5E 31T St Hilaire Nord
-balises :
-- 5026139.5N 266086.03E 32T Saint genis
-atterro : 5020633.5N 727837.8E 31T Lumbin
+
+[trajet]
+deco : 5021076N 726404.5E 31T | St Hilaire Nord
+b1: 5026139.5N 266086.03E 32T | Saint genis
+atterro : 5020633.5N 727837.8E 31T | Lumbin

@@ -1,7 +1,9 @@
+[general]
 titre: saute mouton
 description: Passage de la crête d'Allevard
 distance :
 difficulté :
-deco : 5033473.5N 278610.1E 32T Val Pelouse
-balises :
-atterro : 5029966.5N 270430.72E 32T Digue Allevard
+
+[trajet]
+deco : 5033473.5N 278610.1E 32T | Val Pelouse
+atterro : 5029966.5N 270430.72E 32T | Digue Allevard

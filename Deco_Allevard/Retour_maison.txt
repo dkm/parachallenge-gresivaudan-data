@@ -1,11 +1,13 @@
+[general]
 titre: retour maison
 description: 1ère Liaison Belledonne Chartreuse
 distance :
 difficulté :
-deco : 5030781N 273530.12E 32T Collet D'Allevard
-balises :
-- 5023596.5N 269697.25E 32T Crêt du Poulet
-- 5018739N 267339.6E 32T Merdaret
-- 5015345N 364703.6E 32T 7laux
-atterro : 5020633.5N 727837.8E 31T Lumbin
-+ 5029966.5N 270430.72E 32T Digue Allevard
+
+[trajet]
+deco : 5030781N 273530.12E 32T | Collet D'Allevard
+b1: 5023596.5N 269697.25E 32T | Crêt du Poulet
+b2: 5018739N 267339.6E 32T | Merdaret
+b3: 5015345N 364703.6E 32T | 7laux
+atterro : 5020633.5N 727837.8E 31T | Lumbin
+bonus1: 5029966.5N 270430.72E 32T | Digue Allevard

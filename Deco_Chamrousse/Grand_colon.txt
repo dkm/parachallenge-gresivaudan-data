@@ -1,9 +1,11 @@
+[general]
 titre: grand colon
 description: Dépoussiérage 
 distance :
 difficulté :
-deco : 5001260N 726982.9E 31T Chamrousse 
-balises :
-- 5005200N 729137.25E 31T Grand Colon
-- 5005067N 731437.4E 31T Refuge de la Pra
-atterro : 5003364N 722687.94E 31T Saint Martin
+
+[trajet]
+deco : 5001260N 726982.9E 31T | Chamrousse 
+b1: 5005200N 729137.25E 31T | Grand Colon
+b2: 5005067N 731437.4E 31T | Refuge de la Pra
+atterro : 5003364N 722687.94E 31T | Saint Martin
