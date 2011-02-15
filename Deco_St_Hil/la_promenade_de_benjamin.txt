@@ -2,12 +2,12 @@
 titre: la promenade de benjamin
 description: Tour du bocal de St Hilaire
 distance :
-difficulté :
+difficultï¿½ :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord
-b1: 501959N 725454.7E 31T | Antennes
-b2: 5021445.5N 727219.8E 31T | Pilier Nord
-b3: 5019778N 728959.1E 31T | Autoroute
-b4: 5020486.5N 728061.1E 31T | Tennis
-atterro : 5020633.5N 727837.8E 31T | Lumbin
+b1: 501959N 725454.7E 31T |  | 100
+b2: 5021445.5N 727219.8E 31T | Pilier Nord | 20
+b3: 5019778N 728959.1E 31T | Autoroute | 50
+b4: 5020486.5N 728061.1E 31T | Tennis | 20
+atterro : 5020633.5N 727837.8E 31T | Lumbin | 200
