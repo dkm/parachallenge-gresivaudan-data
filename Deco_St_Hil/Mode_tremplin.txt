@@ -2,11 +2,11 @@
 titre: mode tremplin
 description: Tour des tremplin du coin
 distance :
-difficulté :
+difficultï¿½ :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord
-b1: 5020540.5N 726118.5E 31T | Tremplin Delta Saint Hilaire
-b2: 5035028N 731930.3E 31T | Tremplin Saint Marcel
-atterro : 5020633.5N 727837.8E 31T | Lumbin
+b1: 5020540.5N 726118.5E 31T | Tremplin Delta Saint Hilaire | 20
+b2: 5035028N 731930.3E 31T | Tremplin Saint Marcel | 350
+atterro : 5020633.5N 727837.8E 31T | Lumbin | 200
 
