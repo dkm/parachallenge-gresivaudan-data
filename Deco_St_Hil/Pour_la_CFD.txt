@@ -2,11 +2,11 @@
 titre: pour la cfd
 description: triangle FAI pour gagner la CFd
 distance :
-difficulté :
+difficultï¿½ :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord
-b1: 5012768N 716791.2E 31T | Saint Eynard
-b2: 5039003N 729109.06E 31T | Granier
-b3: 5018739N 267339.6E 32T | Merdaret
-atterro : 5020633.5N 727837.8E 31T | Lumbin
+b1: 5012768N 716791.2E 31T | Saint Eynard | 300
+b2: 5039003N 729109.06E 31T | Granier | 500
+b3: 5018739N 267339.6E 32T | Merdaret | 800
+atterro : 5020633.5N 727837.8E 31T | Lumbin | 200
