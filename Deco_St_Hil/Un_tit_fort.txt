@@ -2,10 +2,10 @@
 titre: un tit fort
 description: Visite du Manival
 distance :
-difficulté :
+difficultï¿½ :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord
-b1 : 5018038.5N 722652.5E 31T | Chateau Narnard
-b2 : 5012768N 716791.2E 31T | Fort Saint Eynard
-atterro : 5020633.5N 727837.8E 31T | Lumbin
+b1 : 5018038.5N 722652.5E 31T | Chateau Narnard | 250
+b2 : 5012768N 716791.2E 31T | Fort Saint Eynard | 300
+atterro : 5020633.5N 727837.8E 31T | Lumbin | 200
