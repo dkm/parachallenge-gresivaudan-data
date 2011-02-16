@@ -2,10 +2,10 @@
 titre: tour d'allevard
 description: Bocal d'Allevard
 distance :
-difficulté :
+difficultï¿½ :
 
 [trajet]
 deco : 5030781N 273530.12E 32T | Collet D'Allevard
-b1: 5032509.5N 269326.34E 32T | Relais Brame Farine
-b2: 5026139.5N 266086.03E 32T | Saint Genis
-atterro : 5029966.5N 270430.72E 32T | Digue Allevard
+b1: 5032509.5N 269326.34E 32T | Relais Brame Farine | 50
+b2: 5026139.5N 266086.03E 32T | Saint Genis | 200
+atterro : 5029966.5N 270430.72E 32T | Digue Allevard | 200
