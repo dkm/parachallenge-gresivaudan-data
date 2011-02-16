@@ -2,9 +2,9 @@
 titre: cross royal
 description: Aller-retour aux 4 seigneurs 
 distance :
-difficulté :
+difficultï¿½ :
 
 [trajet]
 deco : 5001260N 726982.9E 31T | Chamrousse 
-b1: 5003847N 717009.1E 31T | 4 seigneurs
-atterro : 5003364N 722687.94E 31T | Saint Martin
+b1: 5003847N 717009.1E 31T | 4 seigneurs | 150
+atterro : 5003364N 722687.94E 31T | Saint Martin | 200
