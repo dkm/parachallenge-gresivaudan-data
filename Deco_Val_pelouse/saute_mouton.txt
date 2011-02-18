@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: saute mouton
-description: Passage de la cr�te d'Allevard
+description: Passage de la crête d'Allevard
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5033473.5N 278610.1E 32T | Val Pelouse

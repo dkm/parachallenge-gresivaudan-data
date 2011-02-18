@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: allevard
-description: Aller-retour � Allevard
+description: Aller-retour à Allevard
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5001260N 726982.9E 31T | Chamrousse 

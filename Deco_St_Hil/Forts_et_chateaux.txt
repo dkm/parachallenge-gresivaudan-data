@@ -1,14 +1,15 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: forts et chateaux
 description: Initiation aux Chateaux et aux Fort pour les plus forts
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord
 b1: 5018038.5N 722652.5E 31T | Chateau Nanard | 250
 b2: 5012768N 716791.2E 31T | Fort Saint Eynard | 300
-b3: 5022370.5N 728036.7E 31T | Chateau Carr� | 100
+b3: 5022370.5N 728036.7E 31T | Chateau Carré | 100
 b4: 5028003.5N 730838.8E 31T | Chateau du Touvet | 220
 bonus1: 5035646N 733604.44 31T | Fort Barraux | 400
 atterro : 5020633.5N 727837.8E 31T | Lumbin | 200

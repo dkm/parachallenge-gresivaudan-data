@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: belledonne milieu bas
 description: Descente de Belledonne par Allevard
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5030781N 273530.12E 32T | Collet D'Allevard

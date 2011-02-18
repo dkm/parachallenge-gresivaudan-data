@@ -1,11 +1,12 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: grimpe
-description: Premi�re sortie vers le Nord
+description: Première sortie vers le Nord
 distance :
-difficult� :
+difficulté :
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord
 b1: 5019559.5N 725477.5E 31T | Ecole d'Escalade St Pancrasse | 150
-b2: 5024481N 728287.3E 31T | Cascade de Gl�sy | 170
-b3: 5031362.5N 731412.3E 31T | Escalade La Flach�re- Sainte Marie du Mont | 300 
+b2: 5024481N 728287.3E 31T | Cascade de Glésy | 170
+b3: 5031362.5N 731412.3E 31T | Escalade La Flachère- Sainte Marie du Mont | 300 
 atterro : 5020633.5N 727837.8E 31T | Lumbin | 200

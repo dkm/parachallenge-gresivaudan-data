@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: mode tremplin
 description: Tour des tremplin du coin
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord

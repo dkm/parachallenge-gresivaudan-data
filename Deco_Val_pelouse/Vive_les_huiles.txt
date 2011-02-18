@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: vive les huiles
-description: Un petit saut jusqu'� Chamoux par les huiles 
+description: Un petit saut jusqu'à Chamoux par les huiles 
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5033473.5N 278610.1E 32T | Val Pelouse

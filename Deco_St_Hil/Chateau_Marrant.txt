@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: chateau marrant
 description: Visite du Manival
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord

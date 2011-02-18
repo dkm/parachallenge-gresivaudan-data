@@ -1,10 +1,11 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: grille pain
-description: Petit tour jusqu'� Vizille 
+description: Petit tour jusqu'à Vizille 
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5001260N 726982.9E 31T | Chamrousse 
-b1: 4992957.5N 715673.2E 31T | Ligne �lectrique Vizille | 150
+b1: 4992957.5N 715673.2E 31T | Ligne électrique Vizille | 150
 atterro : 5003364N 722687.94E 31T | Saint Martin | 200

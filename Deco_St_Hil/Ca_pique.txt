@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: ca pique
 description: Roches de pierre Aiguille au dessus du Touvet
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord

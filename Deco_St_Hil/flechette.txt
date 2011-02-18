@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: flechette
-description: Petite Balade � Saint Nazaire
+description: Petite Balade à Saint Nazaire
 distance : 
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord 

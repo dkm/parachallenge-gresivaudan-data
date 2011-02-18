@@ -1,13 +1,14 @@
+# -*- coding: utf-8 -*-
 [general]
 titre: coucou les TC
 description: Tour des maisons des potos
 distance :
-difficult� :
+difficulté :
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord
 b1: 5014214.5N 722852.6E 31T | Colloc Saint Ismier | 220
-b2: 5016785.5N 724791.06E 31T | Chez Julien et M�lina (Eglise de Bernin) | 170
+b2: 5016785.5N 724791.06E 31T | Chez Julien et Mélina (Eglise de Bernin) | 170
 b3: 5027291N 731627.4E 31T | Garage Renault (Sortie du Touvet) | 250
 atterro : 5020633.5N 727837.8E 31T | Lumbin | 200
 
