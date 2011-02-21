@@ -4,6 +4,8 @@ titre: cross royal
 description: Aller-retour aux 4 seigneurs 
 distance :
 difficulté :
+id: 14
+
 
 [trajet]
 deco : 5001260N 726982.9E 31T | Chamrousse 

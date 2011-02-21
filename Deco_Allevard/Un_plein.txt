@@ -4,6 +4,8 @@ titre: un plein
 description: Un plein et retour maison
 distance :
 difficulté :
+id: 21
+
 
 [trajet]
 deco : 5030781N 273530.12E 32T | Collet D'Allevard

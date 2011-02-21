@@ -4,6 +4,8 @@ titre: forts et chateaux
 description: Initiation aux Chateaux et aux Fort pour les plus forts
 distance :
 difficulté :
+id: 10
+
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord

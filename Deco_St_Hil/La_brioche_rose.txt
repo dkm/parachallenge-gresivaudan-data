@@ -4,6 +4,8 @@ titre: la brioche rose
 description: 1ère traversée dans Belledonne
 distance :
 difficulté :
+id: 9
+
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord

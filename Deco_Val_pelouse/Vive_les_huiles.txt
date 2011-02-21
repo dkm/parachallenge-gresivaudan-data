@@ -4,6 +4,8 @@ titre: vive les huiles
 description: Un petit saut jusqu'à Chamoux par les huiles 
 distance :
 difficulté :
+id: 19
+
 
 [trajet]
 deco : 5033473.5N 278610.1E 32T | Val Pelouse

@@ -4,6 +4,8 @@ titre: pour la cfd
 description: triangle FAI pour gagner la CFd
 distance :
 difficulté :
+id: 8
+
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord

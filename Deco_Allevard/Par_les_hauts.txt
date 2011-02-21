@@ -4,6 +4,8 @@ titre: par les hauts
 description: Belledonne vue du ciel
 distance :
 difficulté :
+id: 22
+
 
 [trajet]
 deco : 5030781N 273530.12E 32T | Collet D'Allevard

@@ -4,6 +4,8 @@ titre: grand colon
 description: Dépoussiérage 
 distance :
 difficulté :
+id: 16
+
 
 [trajet]
 deco : 5001260N 726982.9E 31T | Chamrousse 

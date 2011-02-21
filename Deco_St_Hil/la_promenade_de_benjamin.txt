@@ -4,6 +4,8 @@ titre: la promenade de benjamin
 description: Tour du bocal de St Hilaire
 distance :
 difficulté :
+id: 5
+
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord

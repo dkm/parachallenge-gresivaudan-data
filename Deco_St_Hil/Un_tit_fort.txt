@@ -4,6 +4,7 @@ titre: un tit fort
 description: Visite du Manival
 distance :
 difficulté :
+id: 0
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord

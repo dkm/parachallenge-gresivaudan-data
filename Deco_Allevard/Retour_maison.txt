@@ -4,6 +4,8 @@ titre: retour maison
 description: 1ère Liaison Belledonne Chartreuse
 distance :
 difficulté :
+id: 26
+
 
 [trajet]
 deco : 5030781N 273530.12E 32T | Collet D'Allevard

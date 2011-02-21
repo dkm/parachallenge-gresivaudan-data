@@ -4,6 +4,8 @@ titre: huit huit
 description: Chamrousse par les Grands moulins et les 7laux
 distance :
 difficulté :
+id: 24
+
 
 [trajet]
 deco : 5030781N 273530.12E 32T | Collet D'Allevard

@@ -4,6 +4,8 @@ titre: coucou les TC
 description: Tour des maisons des potos
 distance :
 difficulté :
+id: 7
+
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord

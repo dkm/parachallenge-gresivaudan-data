@@ -4,6 +4,8 @@ titre: saute mouton
 description: Passage de la crête d'Allevard
 distance :
 difficulté :
+id: 17
+
 
 [trajet]
 deco : 5033473.5N 278610.1E 32T | Val Pelouse

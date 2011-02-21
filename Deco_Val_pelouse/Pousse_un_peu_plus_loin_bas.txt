@@ -4,6 +4,8 @@ titre: pousse un peu plus loin bas
 description: Une petite sortie du bocal vers les 7 laux
 distance :
 difficulté :
+id: 20
+
 
 [trajet]
 deco : 5033473.5N 278610.1E 32T | Val Pelouse

@@ -4,6 +4,8 @@ titre: grands moulins
 description: Montée aux Grands moulin et retour par Allevard
 distance :
 difficulté :
+id: 18
+
 
 [trajet]
 deco : 5033473.5N 278610.1E 32T | Val Pelouse

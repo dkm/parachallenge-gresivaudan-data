@@ -4,6 +4,8 @@ titre: grille pain
 description: Petit tour jusqu'à Vizille 
 distance :
 difficulté :
+id: 15
+
 
 [trajet]
 deco : 5001260N 726982.9E 31T | Chamrousse 

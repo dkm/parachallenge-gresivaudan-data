@@ -4,6 +4,8 @@ titre: tour d'allevard
 description: Bocal d'Allevard
 distance :
 difficulté :
+id: 23
+
 
 [trajet]
 deco : 5030781N 273530.12E 32T | Collet D'Allevard
