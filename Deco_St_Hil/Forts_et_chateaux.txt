@@ -13,5 +13,5 @@ b1: 5018038.5N 722652.5E 31T | Chateau Nanard | 250
 b2: 5012768N 716791.2E 31T | Fort Saint Eynard | 300
 b3: 5022370.5N 728036.7E 31T | Chateau Carré | 100
 b4: 5028003.5N 730838.8E 31T | Chateau du Touvet | 220
-bonus1: 5035646N 733604.44 31T | Fort Barraux | 400
+b5: 5035646N 733604.44E 31T | Fort Barraux | 400 | bonus
 atterro : 5020633.5N 727837.8E 31T | Lumbin | 200
