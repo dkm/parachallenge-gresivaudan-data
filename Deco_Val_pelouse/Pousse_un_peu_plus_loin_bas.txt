@@ -9,5 +9,5 @@ id: 20
 
 [trajet]
 deco : 5033473.5N 278610.1E 32T | Val Pelouse
-b1: 5015345N 364703.6E 32T | 7laux | 250
+b1: 5015627N 735091E 31T | 7laux | 250
 atterro : 5035719N 276274.72E 32T | le Molliet | 200

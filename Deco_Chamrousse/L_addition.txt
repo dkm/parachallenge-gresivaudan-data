@@ -10,6 +10,6 @@ id: 12
 [trajet]
 deco : 5001260N 726982.9E 31T | Chamrousse 
 b1: 5005200N 729137.25E 31T | Cabane du Colon | 100
-b2: 4992957.5N 715673.2E 31T | ligne électrique de Vizille | 150
+b2: 5015627N 735091.1E 31T | ligne électrique de Vizille | 150
 b3: 5003847N 717009.1E 31T | 4 seigneurs | 150
 atterro : 5003364N 722687.94E 31T | Saint Martin | 200

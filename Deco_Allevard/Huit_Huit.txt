@@ -10,6 +10,6 @@ id: 24
 [trajet]
 deco : 5030781N 273530.12E 32T | Collet D'Allevard
 b1: 5031994.5N 281147.97E 32T | Grands Moulins | 200
-b2: 5015345N 364703.6E 32T | 7Laux | 200
+b2: 5015627N 735091E 31T | 7Laux | 200
 b3: 5001150.5N 728233.56E 31T | Croix de Chamrousse | 500
 atterro : 5029966.5N 270430.72E 32T | Digue Allevard | 200

@@ -9,6 +9,6 @@ id: 11
 
 [trajet]
 deco : 5001260N 726982.9E 31T | Chamrousse 
-b1: 5015345N 364703.6E 32T | 7 laux | 170
+b1: 5015627N 735091E 31T | 7 laux | 170
 b2: 5030781N 273530.12E 32T | Allevard | 220
 atterro : 5003364N 722687.94E 31T | Saint Martin | 200

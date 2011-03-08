@@ -9,5 +9,5 @@ id: 15
 
 [trajet]
 deco : 5001260N 726982.9E 31T | Chamrousse 
-b1: 4992957.5N 715673.2E 31T | Ligne électrique Vizille | 150
+b1: 5015627N 735091.1E 31T | Ligne électrique Vizille | 150
 atterro : 5003364N 722687.94E 31T | Saint Martin | 200
