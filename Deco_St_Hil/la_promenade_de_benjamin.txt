@@ -9,7 +9,7 @@ id: 5
 
 [trajet]
 deco : 5021076N 726404.5E 31T | St Hilaire Nord
-b1: 501959N 725454.7E 31T |  | 100
+b1: 5020297.7N 725986.4E 31T | Table d'orientation  | 100
 b2: 5021445.5N 727219.8E 31T | Pilier Nord | 20
 b3: 5019778N 728959.1E 31T | Autoroute | 50
 b4: 5020486.5N 728061.1E 31T | Tennis | 20
