@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+[general]
+titre: pas de nom qui me viens
+description: Crete Grand Ferrand
+distance : 
+difficulté :
+id: 28
+
+[trajet]
+deco :  4961223.42N 721435.34E 31T | Courtet
+b1:  4966488.12N 722182.18E 31T | Chatel | 140
+b2:  4954861.73N 722658.29E 31T | Tete de vallon pierra | 300
+atterro :  4961670.48N 720023.07E 31T | Courtet | 200
+

@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+[general]
+titre: tour de la poche
+description: Petit tour de vallée
+distance : 
+difficulté :
+id: 31
+
+
+[trajet]
+deco : 4961223.42N 721435.34E 31T | Courtet
+b1:  4966488.12N 722182.18E 31T | Chatel | 140
+b2:  4961491.01N 716004.33E 31T | Col du Banchet | 200
+atterro :  4961670.48N 720023.07E 31T | Courtet | 200
+

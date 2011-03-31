@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+[general]
+titre: pochette
+description: A la bergerie
+distance :
+difficulté :
+id: 29
+
+
+[trajet]
+deco :  4961223.42N 721435.34E 31T | Courtet
+b1: 4962909.12N 722692.10E 31T | Bergerie Rochassac (Attention cable 200m avant) | 70
+b2:  4959996.18N 718101.84E  31T | Le Menil | 150
+atterro :  4961670.48N 720023.07E 31T | Courtet | 200
+
